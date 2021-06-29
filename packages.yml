@@ -1,0 +1,5 @@
+packages:
+  - package: fivetran/zendesk_source
+    version: 0.3.1
+  - package: fivetran/zendesk
+    version: 0.5.1
