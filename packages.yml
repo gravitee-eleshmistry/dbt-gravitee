@@ -7,3 +7,7 @@ packages:
     version: 0.3.3
   - package: fivetran/hubspot
     version: 0.3.3
+  - package: fivetran/quickbooks_source
+    version: 0.2.2
+  - package: fivetran/quickbooks
+    version: 0.2.4
