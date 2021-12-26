@@ -2,7 +2,7 @@ packages:
   - package: fivetran/zendesk_source
     version: 0.5.0
   - package: fivetran/zendesk
-    version: 0.7.1
+    version: 0.5.0
   - package: fivetran/hubspot_source
     version: 0.5.0
   - package: fivetran/hubspot
